@@ -1,0 +1,61 @@
+.title {
+    font-weight: lighter;
+    font-size: 30px;
+    color: yellow;
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px 20px 10px;
+    position: relative;
+}
+
+.c-container {
+    position: relative;
+    padding: 20px 0px;
+    border-top: 4px solid white;
+}
+
+.film {
+    width: 143px;
+    height: 230px;
+    margin: 0px -110px 0px -25px;
+}
+
+.c-images {
+    width: 9.15%;
+    height: 184px;
+    padding: none;
+    position: absolute;
+    transform: translate(-21.5%, 12.5%);
+}
+
+@media (max-width: 767px) {
+.c-images {
+    width: 17.5%;
+    height: 184px;
+    transform: translate(-103.5%, 12.5%);
+}
+}
+
+.movieClicked {
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+}
+
+.popup {
+    position: fixed;
+    width: 50%;
+    height: 50%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: rgba(0,0,0, 0.5);
+}
+
+.popup_inner {
+    position: absolute;
+    
+}

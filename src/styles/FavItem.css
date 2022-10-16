@@ -1,0 +1,37 @@
+.FavItem {
+    color: yellow;
+    display: flex;
+    flex-direction: row;
+    padding: 30px 0px;
+    border-top: 4px solid white;
+}
+
+.filmImg {
+    width: 160px;
+    height: 250px;
+}
+
+.posterImg {
+    width: 151px;
+    height: 200px;
+    padding: none;
+    position: absolute;
+    transform: translate(-103%, 12.5%);
+}
+
+.likeTitle {
+    color: white;
+}
+
+.likeBtn {
+    width: 120px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.3);
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+
+.likeBtn:hover {
+    color: yellow;
+}

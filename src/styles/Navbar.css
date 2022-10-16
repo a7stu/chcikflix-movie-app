@@ -1,0 +1,28 @@
+.Navbar {
+    font-family: "Cherry Swash", cursive;
+}
+
+.navColor {
+    background-color: rgb(42, 38, 121);
+}
+
+.navTextColor {
+    color: yellow;
+}
+
+.navSearch {
+    padding: 5px;
+    height:35px;
+    font-size: 15px;
+    border: none;
+}
+
+.liItem {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.navButton {
+    border: none;
+    background-color: transparent;
+}

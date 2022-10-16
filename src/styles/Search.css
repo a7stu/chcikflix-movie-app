@@ -1,0 +1,25 @@
+.Search {
+    padding: 0px 30px;
+}
+
+.searchBox {
+    padding: 50px;
+}
+
+.searchCarousel {
+    padding: 0px 0px 50px;
+}
+
+.film {
+    width: 143px;
+    height: 230px;
+    margin: 0px -110px 0px -25px;
+}
+
+.c-images {
+    width: 134px;
+    height: 183px;
+    padding: none;
+    position: absolute;
+    transform: translate(-21%, 12.5%);
+}

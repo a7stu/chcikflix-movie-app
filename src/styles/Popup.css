@@ -1,0 +1,40 @@
+.popup {
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+}
+
+.popup_inner {
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    color: yellow;
+    border: 3px solid white;
+    background-color: rgb(42, 38, 107);
+    padding: 40px 30px;
+    width: auto;
+}
+
+.popup_img {
+    width: 28%;
+    height: auto;
+    padding: 0px 0px;
+}
+
+.popup_btn {
+    width: fit-content;
+    padding: 0 5%;
+    margin: 2% 0;
+    height: 10%;
+    margin-right: 3%;
+    border-radius: 10px;
+    font-size: small;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+    border: none;
+}
+
+.popup_btn:hover {
+    color: yellow;
+}
