@@ -1,9 +1,16 @@
 # Photos of the website
 
 ![flix1](https://user-images.githubusercontent.com/93438794/199717072-c4bb039b-aa82-4461-94a2-ddfd78f2de4a.JPG)
+Home Page Top
+
 ![flix2](https://user-images.githubusercontent.com/93438794/199717071-4e75ca20-c9c7-4f22-a788-d4d4623f410a.JPG)
+Home Page Bottom
+
 ![flix3](https://user-images.githubusercontent.com/93438794/199717069-bfe80e98-f152-4d0a-860d-b391209fd3af.JPG)
+Favourites Page
+
 ![flix4](https://user-images.githubusercontent.com/93438794/199717063-3ec77e8e-b8aa-47b0-882c-0a0e9549f4cd.JPG)
+Search Page
 
 # Website Features
 
